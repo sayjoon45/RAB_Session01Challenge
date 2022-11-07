@@ -69,7 +69,7 @@ namespace RAB_Session01Challenge
                     }
                     else
                     {
-                        result2 = i;
+                        result2 = i.ToString();
                     }
 
                     // Text Notes
